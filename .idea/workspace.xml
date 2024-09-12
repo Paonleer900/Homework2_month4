@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f96b990-4655-4cea-836e-d08bbe4eb671" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Homework2",
     "node.js.detected.package.eslint": "true",
@@ -73,7 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1725541845154</updated>
       <workItem from="1725541846673" duration="2845000" />
-      <workItem from="1725794039938" duration="4634000" />
+      <workItem from="1725794039938" duration="7013000" />
+      <workItem from="1726097171803" duration="225000" />
+      <workItem from="1726153655927" duration="698000" />
     </task>
     <servers />
   </component>
